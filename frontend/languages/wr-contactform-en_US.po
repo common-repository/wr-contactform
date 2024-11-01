@@ -1,0 +1,417 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WR ContactForm\n"
+"POT-Creation-Date: 2013-10-28 10:39+0700\n"
+"PO-Revision-Date: 2015-01-13 09:10+0700\n"
+"Last-Translator: \n"
+"Language-Team: Innogears Team <support@woorockets.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "WR_CONTACTFORM_SHOW_SUBMISSION_DATA_DETAIL_DES"
+msgstr "Show Submission Data Detail"
+
+msgid "WR_CONTACTFORM_POWERED_BY"
+msgstr "Joomla forms builder"
+
+msgid "WR_CONTACTFORM_BUTTON_SAVE"
+msgstr "Submit"
+
+msgid "WR_CONTACTFORM_BUTTON_RESET"
+msgstr "Reset"
+
+msgid "WR_CONTACTFORM_BUTTON_PREVIOUS"
+msgstr "Previous"
+
+msgid "WR_CONTACTFORM_BUTTON_BACK"
+msgstr "Back"
+
+msgid "WR_CONTACTFORM_BUTTON_NEXT"
+msgstr "Next"
+
+msgid "WR_CONTACTFORM_FIELD_REQUIRED"
+msgstr "Field required"
+
+msgid "WR_CONTACTFORM_FIELD_EXISTING"
+msgstr "Someone already has that '%s'"
+
+msgid "WR_CONTACTFORM_FIELD_EMAIL"
+msgstr "The value %s is not valid"
+
+msgid "WR_CONTACTFORM_FIELD_WEBSITE"
+msgstr "The value %s is not valid"
+
+msgid "WR ContactForm - View Form"
+msgstr "WR ContactForm - View Form"
+
+msgid "Select Form"
+msgstr "Select Form"
+
+msgid "This file type %s is not supported."
+msgstr "This file type '%s' is not supported."
+
+msgid "This file is too large to upload."
+msgstr "This file is too large to upload."
+
+msgid "Unable to upload file."
+msgstr "Unable to upload file."
+
+msgid "Please input a file for upload"
+msgstr "Please input a file for upload"
+
+msgid "The value %s is not integer"
+msgstr "The value %s is not integer"
+
+msgid "Thank you for your email."
+msgstr "Thank you for your email."
+
+msgid "Incorrect captcha text!"
+msgstr "Incorrect captcha text!"
+
+msgid "WR ContactForm"
+msgstr "WR ContactForm"
+
+msgid "WR_CONTACTFORM_SELECT_FORM_DES"
+msgstr "WR ContactForm - Select Form"
+
+msgid "WR_CONTACTFORM_BUTTON_SUBMIT"
+msgstr "Submit"
+
+msgid "This field can not be empty, please enter required information."
+msgstr "This field can not be empty, please enter required information."
+
+msgid "The information is invalid, please correct."
+msgstr "The information is invalid, please correct."
+
+msgid "The information cannot contain more than"
+msgstr "The information cannot contain more than"
+
+msgid "The information cannot contain less than"
+msgstr "The information cannot contain less than"
+
+msgid "The file you want to upload is too big. Please keep file size under %s MB"
+msgstr "The file you want to upload is too big. Please keep file size under %s MB"
+
+msgid "The file you want to upload is too big. Please keep file size under %s"
+msgstr "The file you want to upload is too big. Please keep file size under %s"
+
+msgid "The number cannot be greater than"
+msgstr "The number cannot be greater than"
+
+msgid "The number cannot be less than"
+msgstr "The number cannot be less than"
+
+msgid "Both email addresses must be the same."
+msgstr "Both email addresses must be the same."
+
+msgid "Both %s addresses must be the same."
+msgstr "Both %s addresses must be the same."
+
+msgid "Both password must be the same."
+msgstr "Both password must be the same."
+
+msgid "The password must contain minimum %mi% and maximum %mx% character(s)"
+msgstr "The password must contain minimum %mi% and maximum %mx% character(s)"
+
+msgid "WR_CONTACTFORM_FIELD_PASSWORD"
+msgstr "The value %s is not valid"
+
+msgid "Street Address"
+msgstr "Street Address"
+
+msgid "Address Line 2"
+msgstr "Address Line 2"
+
+msgid "City"
+msgstr "City"
+
+msgid "Postal/Zip code"
+msgstr "Postal/Zip code"
+
+msgid "State/Province/Region"
+msgstr "State/Province/Region "
+
+msgid "First"
+msgstr "First"
+
+msgid "Middle"
+msgstr "Middle"
+
+msgid "Last"
+msgstr "Last"
+
+msgid "OTHERS"
+msgstr "Others"
+
+msgid "Captcha"
+msgstr "Captcha"
+
+msgid "WR ContactForm: Submission Settings"
+msgstr "WR ContactForm: Submission Settings"
+
+msgid "Country"
+msgstr "Country"
+
+msgid "Browser"
+msgstr "Browser"
+
+msgid "Operating System"
+msgstr "Operating System"
+
+msgid "Created By"
+msgstr "Created By"
+
+msgid "Date Created"
+msgstr "Date Created"
+
+msgid "WR_CONTACTFORM_DATE"
+msgstr "Date"
+
+msgid "Select date submission"
+msgstr "Select date submission"
+
+msgid "Search in date sunbmission"
+msgstr "Search in date sunbmission"
+
+msgid "Submission data"
+msgstr "Submission data"
+
+msgid "Submission details"
+msgstr "Submission details"
+
+msgid "Print"
+msgstr "Print"
+
+msgid "Last Submitted"
+msgstr "Last Submitted"
+
+msgid "Submissions"
+msgstr "Submissions"
+
+msgid "IP Address"
+msgstr "IP Address"
+
+msgid "State"
+msgstr "State"
+
+msgid "Please select the form to get submissions of:"
+msgstr "Please select the form to get submissions of:"
+
+msgid "WR ContactForm: Submissions Manager"
+msgstr "WR ContactForm: Submissions Manager"
+
+msgid "Select Fields"
+msgstr "Select Fields"
+
+msgid "Search in title"
+msgstr "Search in title"
+
+msgid "Select Date"
+msgstr "Select Date"
+
+msgid "WR_CONTACTFORM_SUBMISSION_ID"
+msgstr "ID"
+
+msgid "Form"
+msgstr "Form"
+
+msgid "JTOOLBAR_EDIT"
+msgstr "Edit"
+
+msgid "Done"
+msgstr "Done"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "WR_CONTACTFORM_SAVE_CLOSE"
+msgstr "Save & Close"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Data Presentation"
+msgstr "Data Presentation"
+
+msgid "Single page"
+msgstr "Single page"
+
+msgid "Multiple pages"
+msgstr "Multiple pages"
+
+msgid "No data"
+msgstr "No data"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "WR_CONTACTFORM_NEXT_SUBMISSION"
+msgstr "Next Submission"
+
+msgid "WR_CONTACTFORM_PREVIOUS_SUBMISSION"
+msgstr "Previous Submission"
+
+msgid "WR_CONTACTFORM_SAVE_NEXT"
+msgstr "Save & Next"
+
+msgid "WR_CONTACTFORM_DATE_HOUR_TEXT"
+msgstr "Hour"
+
+msgid "WR_CONTACTFORM_DATE_MINUTE_TEXT"
+msgstr "Minute"
+
+msgid "WR_CONTACTFORM_DATE_CLOSE_TEXT"
+msgstr "Close"
+
+msgid "Prev"
+msgstr "Prev"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "Today"
+msgstr "Today"
+
+msgid "January"
+msgstr "January"
+
+msgid "February"
+msgstr "February"
+
+msgid "March"
+msgstr "March"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "May"
+
+msgid "June"
+msgstr "June"
+
+msgid "July"
+msgstr "July"
+
+msgid "August"
+msgstr "August"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "October"
+
+msgid "November"
+msgstr "November"
+
+msgid "December"
+msgstr "December"
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "Mar"
+msgstr "Mar"
+
+msgid "Apr"
+msgstr "Apr"
+
+msgid "May"
+msgstr "May"
+
+msgid "Jun"
+msgstr "Jun"
+
+msgid "Jul"
+msgstr "Jul"
+
+msgid "Aug"
+msgstr "Aug"
+
+msgid "Sep"
+msgstr "Sep"
+
+msgid "Oct"
+msgstr "Oct"
+
+msgid "Nov"
+msgstr "Nov"
+
+msgid "Dec"
+msgstr "Dec"
+
+msgid "Sunday"
+msgstr "Sunday"
+
+msgid "Monday"
+msgstr "Monday"
+
+msgid "Tuesday"
+msgstr "Tuesday"
+
+msgid "Wednesday"
+msgstr "Wednesday"
+
+msgid "Thursday"
+msgstr "Thursday"
+
+msgid "Friday"
+msgstr "Friday"
+
+msgid "Saturday"
+msgstr "Saturday"
+
+msgid "Sun"
+msgstr "Sun"
+
+msgid "Mon"
+msgstr "Mon"
+
+msgid "Tue"
+msgstr "Tue"
+
+msgid "Wed"
+msgstr "Wed"
+
+msgid "Thu"
+msgstr "Thu"
+
+msgid "Fri"
+msgstr "Fri"
+
+msgid "Sat"
+msgstr "Sat"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "We"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Wk"
+msgstr "Wk"

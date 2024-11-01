@@ -1,0 +1,1534 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WR ContactForm\n"
+"POT-Creation-Date: 2013-10-28 10:39+0700\n"
+"PO-Revision-Date: 2015-01-13 09:23+0700\n"
+"Last-Translator: \n"
+"Language-Team: InnoThemes Team <support@innothemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+# global
+msgid "Currently this product does not have the package for this Joomla version, please contact us to get more information: http://www.woorockets.com/woorockets/contact-us.html"
+msgstr "Currently this product does not have the package for this Joomla version, please contact us to get more information: http://www.woorockets.com/woorockets/contact-us.html"
+
+msgid "Install"
+msgstr "Install"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Apply"
+msgstr "Apply"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "Are you sure you want to delete the selected item(s)?"
+msgstr "Are you sure you want to delete the selected item(s)?"
+
+msgid "You can't leave this empty."
+msgstr "You can't leave this empty."
+
+msgid "You must provide a valid e-mail address"
+msgstr "You must provide a valid e-mail address"
+
+msgid "Select menu item"
+msgstr "Select menu item"
+
+msgid "Select article"
+msgstr "Select article"
+
+msgid "Select Form"
+msgstr "Select Form"
+
+msgid "Publish"
+msgstr "Publish"
+
+msgid "Unpublish"
+msgstr "Unpublish"
+
+msgid "Published"
+msgstr "Published"
+
+msgid "Unpublished"
+msgstr "Unpublished"
+
+msgid "Delete failure"
+msgstr "Delete failure"
+
+msgid "successfully deleted"
+msgstr "successfully deleted"
+
+msgid "..."
+msgstr "..."
+
+msgid "No"
+msgstr "No"
+
+msgid "Yes"
+msgstr "Yes"
+
+msgid "Select"
+msgstr "Select"
+
+msgid "Folder %s must have Writable permission"
+msgstr "Folder %s must have Writable permission"
+
+msgid "cmod (%s)"
+msgstr "cmod (%s)"
+
+msgid "No data"
+msgstr "No data"
+
+msgid "WR ContactForm"
+msgstr "WR ContactForm"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "Search title or alias. Prefix with ID: to search for an article ID."
+msgstr "Search title or alias. Prefix with ID: to search for an article ID."
+
+msgid "Search title or alias. Prefix with ID: to search for a menu ID."
+msgstr "Search title or alias. Prefix with ID: to search for a menu ID."
+
+msgid "WR ContactForm: About"
+msgstr "WR ContactForm: About"
+
+msgid "Layout"
+msgstr "Layout"
+
+msgid "In Free edition, you can only accept <strong>up to 300 submissions</strong>. There are <strong>%s slot(s) left</strong>. Please upgrade to PRO edition to accept unlimited number of submissions."
+msgstr "In Free edition, you can only accept <strong>up to 300 submissions</strong>. There are <strong>%s slot(s) left</strong>. Please upgrade to PRO edition to accept unlimited number of submissions."
+
+msgid "Please upgrade to PRO edition to be able to hide the copyright link."
+msgstr "Please upgrade to PRO edition to be able to hide the copyright link."
+
+msgid "In Free edition, you can only create <strong>up to 3 forms</strong>. There are <strong>%s slot(s) left</strong>. Please upgrade to PRO edition to create unlimited number of forms."
+msgstr "In Free edition, you can only create <strong>up to 3 forms</strong>. There are <strong>%s slot(s) left</strong>. Please upgrade to PRO edition to create unlimited number of forms."
+
+msgid "In Free edition, you can only create <strong>up to 3 forms</strong>. There are <strong>0 slot(s) left</strong>. Please upgrade to PRO edition to create unlimited number of forms."
+msgstr "In Free edition, you can only create <strong>up to 3 forms</strong>. There are <strong>0 slot(s) left</strong>. Please upgrade to PRO edition to create unlimited number of forms."
+
+msgid "In Free edition, you can only create <strong>up to 10 fields</strong> in one form. Please upgrade to PRO edition to create unlimited number of fields in one form."
+msgstr "In Free edition, you can only create <strong>up to 10 fields</strong> in one form. Please upgrade to PRO edition to create unlimited number of fields in one form."
+
+msgid "<p>The multiple pages feature is available only in PRO edition. Please upgrade to PRO edition to get this and other awesome features. Also you will get professional and fast support.</p>"
+msgstr "<p>The multiple pages feature is available only in PRO edition. Please upgrade to PRO edition to get this and other awesome features. Also you will get professional and fast support.</p>"
+
+msgid "Upgrade to PRO edition"
+msgstr "Upgrade to PRO edition"
+
+msgid "Upgrade to PRO edition for more"
+msgstr "Upgrade to PRO edition for more"
+
+msgid "Do you want to save changes before leaving this page?"
+msgstr "Do you want to save changes before leaving this page?"
+
+msgid "Previous"
+msgstr "Previous"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "Save & Show"
+msgstr "Save & Show"
+
+msgid "Export"
+msgstr "Export"
+
+msgid "Export to Excel"
+msgstr "Export to Excel"
+
+msgid "Export to CSV"
+msgstr "Export to CSV"
+
+msgid "The %s list is empty"
+msgstr "The %s list is empty"
+
+msgid "Revert"
+msgstr "Revert"
+
+msgid "Done"
+msgstr "Done"
+
+msgid "Options"
+msgstr "Options"
+
+# submenu
+msgid "Configuration"
+msgstr "Configuration"
+
+msgid "About"
+msgstr "About"
+
+msgid "Launch Pad"
+msgstr "Launch Pad"
+
+# config & maintenance
+msgid "Global Parameters"
+msgstr "Global Parameters"
+
+msgid "Permissions"
+msgstr "Permissions"
+
+msgid "Messages"
+msgstr "Messages"
+
+msgid "Languages"
+msgstr "Languages"
+
+msgid "Data"
+msgstr "Data"
+
+msgid "WR ContactForm: Configuration"
+msgstr "WR ContactForm: Configuration"
+
+msgid "CONFIGURATION"
+msgstr "CONFIGURATION"
+
+msgid "MAINTENANCE"
+msgstr "MAINTENANCE"
+
+# launch pad
+msgid "WR ContactForm: Launch Pad"
+msgstr "WR ContactForm: Launch Pad"
+
+msgid "Forms"
+msgstr "Forms"
+
+msgid "Define what form to present"
+msgstr "Define what form to present"
+
+msgid "Presentation"
+msgstr "Presentation"
+
+msgid "Define how to present the form"
+msgstr "Define how to present the form"
+
+msgid "Inside article (content plugin)"
+msgstr "Inside article (content plugin)"
+
+msgid "In module position (module)"
+msgstr "In module position (module)"
+
+msgid "Via menu item (component)"
+msgstr "Via menu item (component)"
+
+msgid "Select presentation method"
+msgstr "Select presentation method"
+
+msgid "Select menu"
+msgstr "Select menu"
+
+msgid "Please insert following text to your article at the position where you want to show form"
+msgstr "Please insert following text to your article at the position where you want to show form"
+
+msgid "Plugin syntax details"
+msgstr "Plugin syntax details"
+
+# Global Configuration
+msgid "Set the list of email addresses that will receive notification email each time user submits the form."
+msgstr "Set the list of email addresses that will receive notification email each time user submits the form."
+
+msgid "Upload Folder"
+msgstr "Upload Folder"
+
+msgid "Select the action to perform each time user submits the form."
+msgstr "Select the action to perform each time user submits the form."
+
+msgid "Set the folder to store files uploaded by users. Each form will have it's own subfolder with the id as the name."
+msgstr "Set the folder to store files uploaded by users. Each form will have it's own subfolder with the id as the name."
+
+msgid "General"
+msgstr "General"
+
+msgid "Post Submission Action"
+msgstr "Post Submission Action"
+
+msgid "Default Form Settings"
+msgstr "Default Form Settings"
+
+msgid "Do Action"
+msgstr "Do Action"
+
+msgid "Redirect to URL"
+msgstr "Redirect to URL"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Redirect to Menu Item"
+msgstr "Redirect to Menu Item"
+
+msgid "Menu Item"
+msgstr "Menu Item"
+
+msgid "Show Article"
+msgstr "Show Article"
+
+msgid "Article"
+msgstr "Article"
+
+msgid "Show Custom Message"
+msgstr "Show Custom Message"
+
+msgid "Custom Message"
+msgstr "Custom Message"
+
+msgid "No Action"
+msgstr "No Action"
+
+msgid "Verify"
+msgstr "Verify"
+
+msgid "The Folder is writable !"
+msgstr "The Folder is writable !"
+
+msgid "Move files to new folder"
+msgstr "Move files to new folder"
+
+msgid "Done!"
+msgstr "Done!"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Loading..."
+msgstr "Loading..."
+
+msgid "Go"
+msgstr "Go"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Clear"
+msgstr "Clear"
+
+msgid "Show Copyright Link"
+msgstr "Show Copyright Link"
+
+msgid "Select “Yes” if you want to show copyright link at the bottom of each form presentation."
+msgstr "Select “Yes” if you want to show copyright link at the bottom of each form presentation."
+
+msgid "Load Bootstrap CSS"
+msgstr "Load Bootstrap CSS"
+
+msgid "Select “Yes” if you want to load Bootstrap CSS files at the front-end. This is required when your front-end template doesn’t load Bootstrap itself."
+msgstr "Select “Yes” if you want to load Bootstrap CSS files at the front-end. This is required when your front-end template doesn’t load Bootstrap itself."
+
+# email notification
+msgid "Email Notification"
+msgstr "Email Notification"
+
+msgid "Send to email(s)"
+msgstr "Send to email(s)"
+
+msgid "Edit email content"
+msgstr "Edit email content"
+
+msgid "Customize email"
+msgstr "Customize email"
+
+msgid "New Email"
+msgstr "New Email"
+
+msgid "%d form successfully deleted"
+msgstr "%d form successfully deleted"
+
+msgid "%d submission successfully deleted"
+msgstr "%d submission successfully deleted"
+
+msgid "Send email to submitter"
+msgstr "Send email to submitter"
+
+msgid "Send to submitter"
+msgstr "Send to submitter"
+
+msgid "Add Email"
+msgstr "Add Email"
+
+# email settings
+msgid "From"
+msgstr "From"
+
+msgid "From Name"
+msgstr "From Name"
+
+msgid "Reply To"
+msgstr "Reply To"
+
+msgid "Subject"
+msgstr "Subject"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "Insert form field"
+msgstr "Insert form field"
+
+msgid "Edit email content being sent to specified address(es)"
+msgstr "Edit email content being sent to specified address(es)"
+
+msgid "Email content being sent to form submitter"
+msgstr "Email content being sent to form submitter"
+
+msgid "WR_CONTACTFORM_EMAIL_USUALLY_SENT_TO_WEBSITE"
+msgstr "This email is usually sent to website administrators and persons who are taking care of form submissions. Their email address(es) are specified in previous screen."
+
+msgid "WR_CONTACTFORM_EMAIL_USUALLY_SENT_TO_THE_PERSON"
+msgstr "This email is usually sent to the person who submitted the form. His/her email address is specified via selected email form field in the previous screen."
+
+msgid "WR_CONTACTFORM_EMAIL_SPECIFY_THE_NAME_1"
+msgstr "Specify the name of the email sender. Best to select the form field identifying submitter's name."
+
+msgid "WR_CONTACTFORM_EMAIL_SPECIFY_THE_EMAIL_1"
+msgstr "Specify the email address where to reply to. Best to select the form field identifying submitter's email address."
+
+msgid "WR_CONTACTFORM_EMAIL_SPECIFY_THE_SUBJECT_1"
+msgstr "Specify the subject of the email."
+
+msgid "WR_CONTACTFORM_EMAIL_SPECIFY_THE_CONTENT_1"
+msgstr "Specify the content of the email."
+
+msgid "WR_CONTACTFORM_EMAIL_SPECIFY_THE_NAME_0"
+msgstr "Specify the name of the email sender. Usually this is the name of your support department."
+
+msgid "WR_CONTACTFORM_EMAIL_SPECIFY_THE_EMAIL_0"
+msgstr "Specify the email address where to reply to. Usually this is the email address of your support department."
+
+msgid "WR_CONTACTFORM_EMAIL_SPECIFY_THE_SUBJECT_0"
+msgstr "Specify the subject of the email"
+
+msgid "WR_CONTACTFORM_EMAIL_SPECIFY_THE_CONTENT_0"
+msgstr "Specify the content of the email"
+
+msgid "Attach File"
+msgstr "Attach File"
+
+msgid "WR_CONTACTFORM_EMAIL_SPECIFY_THE_ATTACH_1"
+msgstr "Specify the “File upload” field(s) from where system will get submitted file and attach to notification email."
+
+msgid "WR_CONTACTFORM_EMAIL_SPECIFY_THE_ATTACH_0"
+msgstr "Specify the “File upload” field(s) from where system will get submitted file and attach to notification email."
+
+# form manager
+msgid "WR ContactForm: Form Settings"
+msgstr "WR ContactForm: Form Settings"
+
+msgid "Form"
+msgstr "Form"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Design"
+msgstr "Design"
+
+msgid "Appearance"
+msgstr "Appearance"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Option"
+msgstr "Option"
+
+msgid "Values"
+msgstr "Values"
+
+msgid "WR ContactForm: Forms Manager"
+msgstr "WR ContactForm: Forms Manager"
+
+msgid "Form Settings"
+msgstr "Form Settings"
+
+msgid "Detail"
+msgstr "Detail"
+
+msgid "Disable Form"
+msgstr "Disable Form"
+
+msgid "Enable Form"
+msgstr "Enable Form"
+
+msgid "Search in title"
+msgstr "Search in title"
+
+msgid "Form Layout"
+msgstr "Form Layout"
+
+msgid "Form theme"
+msgstr "Form theme"
+
+msgid "WR ContactForm: View Form"
+msgstr "WR ContactForm: View Form"
+
+msgid "Select Fields"
+msgstr "Select Fields"
+
+msgid "Select Field"
+msgstr "Select Field"
+
+msgid "Select Email Field"
+msgstr "Select Email Field"
+
+msgid "Add Field"
+msgstr "Add Field"
+
+msgid "Captcha Integration"
+msgstr "Captcha Integration"
+
+msgid "Add Page"
+msgstr "Add Page"
+
+msgid "New Page"
+msgstr "New Page"
+
+msgid "All"
+msgstr "All"
+
+msgid "Filter"
+msgstr "Filter: "
+
+msgid "More"
+msgstr "More"
+
+msgid "Other pages"
+msgstr "Other pages"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Form Type"
+msgstr "Form Type"
+
+msgid "Single page"
+msgstr "Single page"
+
+msgid "Multiple pages"
+msgstr "Multiple pages"
+
+msgid "Converting form type to Single Page will combine fields from all pages into one single page. Are you sure?"
+msgstr "Converting form type to Single Page will combine fields from all pages into one single page. Are you sure?"
+
+msgid "Deleting a field means that all data collected by the field will be deleted immediately. Because this action cannot be undone, you might want to consider backup your data first."
+msgstr "Deleting a field means that all data collected by the field will be deleted immediately. Because this action cannot be undone, you might want to consider backup your data first."
+
+msgid "Are you sure you want to delete this field?"
+msgstr "Are you sure you want to delete this field?"
+
+msgid "If checked no value duplication will be allowed for this field."
+msgstr "If checked no value duplication will be allowed for this field."
+
+msgid "Specify email address(es) where to send notification emails. These email addresses usually belong to website administrators and people who are taking care of form submissions."
+msgstr "Specify email address(es) where to send notification emails. These email addresses usually belong to website administrators and people who are taking care of form submissions."
+
+msgid "Select email form field(s) from where to take the email address to send notification emails. These email form fields are defined in 'Form Design' tab"
+msgstr "Select email form field(s) from where to take the email address to send notification emails. These email form fields are defined in 'Form Design' tab"
+
+msgid "%d forms successfully duplicated"
+msgstr "%d forms successfully duplicated"
+
+msgid "No form selected"
+msgstr "No form selected"
+
+msgid "Inside article"
+msgstr "Inside article"
+
+msgid "In module position"
+msgstr "In module position"
+
+msgid "Via menu item"
+msgstr "Via menu item"
+
+msgid "Even if you do not set limitation here, there will still be a limitation set by server which is: "
+msgstr "Even if you do not set limitation here, there will still be a limitation set by server which is: "
+
+msgid "For security reasons following file extensions are always prohibited: "
+msgstr "For security reasons following file extensions are always prohibited: "
+
+msgid "Set the form's title to identify itself in administration area."
+msgstr "Set the form's title to identify itself in administration area."
+
+msgid "Set the form's description to identify itself in administration area."
+msgstr "Set the form's description to identify itself in administration area."
+
+msgid "Select the form’ status to indicate if it should be displayed on the website or not."
+msgstr "Select the form’ status to indicate if it should be displayed on the website or not."
+
+msgid "Select the user group that can see the form on the website."
+msgstr "Select the user group that can see the form on the website."
+
+msgid "Select the captcha technology to be integrated to the form to prevent spams."
+msgstr "Select the captcha technology to be integrated to the form to prevent spams."
+
+msgid "Select to show form fields in in single page or multiple pages."
+msgstr "Select to show form fields in in single page or multiple pages."
+
+msgid "Select to show form field title and element in vertical column or horizontal row."
+msgstr "Select to show form field title and element in vertical column or horizontal row."
+
+msgid "Select the action to take after user submits the form data."
+msgstr "Select the action to take after user submits the form data."
+
+msgid "Set the folder to store all files submitted by user."
+msgstr "Set the folder to store all files submitted by user."
+
+msgid "Form Style"
+msgstr "Form Style"
+
+msgid "Select style to apply to the form."
+msgstr "Select style to apply to the form."
+
+msgid "Allow user's choice"
+msgstr "Allow user's choice"
+
+msgid "Set the first item as placeholder"
+msgstr "Set the first item as placeholder"
+
+msgid "When checked, the first item will be used as placeholder without contributing value to form data."
+msgstr "When checked, the first item will be used as placeholder without contributing value to form data."
+
+msgid "Show Date in format"
+msgstr "Show Date in format"
+
+msgid "Show Time in format"
+msgstr "Show Time in format"
+
+msgid "Enable Range selection"
+msgstr "Enable Range selection"
+
+msgid "Blank Form"
+msgstr "Blank Form"
+
+msgid "Contact Us"
+msgstr "Contact Us"
+
+msgid "Customer Feedback"
+msgstr "Customer Feedback"
+
+msgid "Job Application"
+msgstr "Job Application"
+
+msgid "Event Registration"
+msgstr "Event Registration"
+
+msgid "Voting"
+msgstr "Voting"
+
+msgid "Allow Front-end Submission Editing"
+msgstr "Allow Front-end Submission Editing"
+
+msgid "Select “Yes” if you want user to be able to edit submission’s details at the front-end."
+msgstr "Select “Yes” if you want user to be able to edit submission’s details at the front-end."
+
+msgid "Front-end Submission Editing Permission"
+msgstr "Front-end Submission Editing Permission"
+
+msgid "Select permission level required to be able to edit submission’s details at the front-end."
+msgstr "Select permission level required to be able to edit submission’s details at the front-end."
+
+msgid "WR ContactForm: Select Field"
+msgstr "WR ContactForm: Select Field"
+
+msgid "Custom date format"
+msgstr "Custom date format"
+
+msgid "Display Options"
+msgstr "Display Options"
+
+msgid "Select the form to get submission of."
+msgstr "Select the form to get submission of."
+
+msgid "Form Field(s)"
+msgstr "Form Field(s)"
+
+msgid "Select form fields to display"
+msgstr "Select form fields to display"
+
+msgid "Show Data Filter"
+msgstr "Show Data Filter"
+
+msgid "Select “Yes” if you want to show text box to allow user to filter submissions by the data it contains."
+msgstr "Select “Yes” if you want to show text box to allow user to filter submissions by the data it contains."
+
+msgid "Show Date Filter"
+msgstr "Show Date Filter"
+
+msgid "Select “Yes” if you want to show date selector to allow user to filter submissions by the date."
+msgstr "Select “Yes” if you want to show date selector to allow user to filter submissions by the date."
+
+msgid "Show Field Selector"
+msgstr "Show Field Selector"
+
+msgid "Select “Yes” if you want to show form field(s) selector to allow user to choose data of what field to show."
+msgstr "Select “Yes” if you want to show form field(s) selector to allow user to choose data of what field to show."
+
+msgid "WR_CONTACTFORM_ALL_FORM_FIELD_ARE_DISPLAYED"
+msgstr "All form fields are displayed. There is nothing to be set to show"
+
+msgid "WR_CONTACTFORM_ALL_FORM_FIELD_ARE_HIDDEN"
+msgstr "All form fields are hidden. There is nothing to be set to hide"
+
+msgid "ReCaptcha"
+msgstr "ReCaptcha"
+
+msgid "Securimage"
+msgstr "Securimage"
+
+msgid "No Captcha"
+msgstr "No Captcha"
+
+msgid "Captcha"
+msgstr "Captcha"
+
+# FORM STYLE
+msgid "Field"
+msgstr "Field"
+
+msgid "Container"
+msgstr "Container"
+
+msgid "Title"
+msgstr "Title"
+
+msgid "Background Color"
+msgstr "Background Color"
+
+msgid "Background Active Color"
+msgstr "Background Active Color"
+
+msgid "Border Thickness"
+msgstr "Border Thickness"
+
+msgid "Border Color"
+msgstr "Border Color"
+
+msgid "Border Active Color"
+msgstr "Border Active Color"
+
+msgid "Rounded Corner Radius"
+msgstr "Rounded Corner Radius"
+
+msgid "Padding Space"
+msgstr "Padding Space"
+
+msgid "Vertical Space"
+msgstr "Vertical Space"
+
+msgid "Text Color"
+msgstr "Text Color"
+
+msgid "Font Type"
+msgstr "Font Type"
+
+msgid "Font Size"
+msgstr "Font Size"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Color Theme"
+msgstr "Color Theme"
+
+msgid "Color Scheme"
+msgstr "Color Scheme"
+
+msgid "Shadow Color"
+msgstr "Shadow Color"
+
+msgid "Are you sure you want to delete current color scheme?"
+msgstr "Are you sure you want to delete current color scheme?"
+
+msgid "Color scheme with such name already exists"
+msgstr "Color scheme with such name already exists"
+
+msgid "you sure you want to restore all style settings to default state?"
+msgstr "you sure you want to restore all style settings to default state?"
+
+# access
+msgid "Access Submisssions"
+msgstr "Access Submisssions"
+
+msgid "Access Forms"
+msgstr "Access Forms"
+
+msgid "Access Configuration "
+msgstr "Access Configuration"
+
+# PLACEHOLDER form
+msgid "Click the button on the right to select the form field identifying submitter name"
+msgstr "Click the button on the right to select the form field identifying submitter's name"
+
+msgid "Click the button on the right to select the form field identifying submitter email"
+msgstr "Click the button on the right to select the form field identifying submitter's email"
+
+msgid "e.g. Contact inquiry"
+msgstr "e.g. Contact inquiry"
+
+msgid "e.g. Customer Department"
+msgstr "e.g. Customer Department"
+
+msgid "e.g. support@yourdomain.com"
+msgstr "e.g. support@yourdomain.com"
+
+msgid "e.g. Thank you for contacting us"
+msgstr "e.g. Thank you for contacting us"
+
+msgid "Enter your email message"
+msgstr "Enter your email message"
+
+msgid "Enter your URL"
+msgstr "Enter your URL"
+
+msgid "Select a menu item"
+msgstr "Select a menu item"
+
+msgid "Select an article"
+msgstr "Select an article"
+
+msgid "Enter your message"
+msgstr "Enter your message"
+
+msgid "Select Date"
+msgstr "Select Date"
+
+# submission
+msgid "WR ContactForm: Submission Settings"
+msgstr "WR ContactForm: Submission Settings"
+
+msgid "Country"
+msgstr "Country"
+
+msgid "Browser"
+msgstr "Browser"
+
+msgid "Operating System"
+msgstr "Operating System"
+
+msgid "WR_CONTACTFORM_DATE"
+msgstr "Date"
+
+msgid "Select date submission"
+msgstr "Select date submission"
+
+msgid "Search in date sunbmission"
+msgstr "Search in submissions date"
+
+msgid "Submission data"
+msgstr "Submission data"
+
+msgid "Submission details"
+msgstr "Submission details"
+
+msgid "Print"
+msgstr "Print"
+
+msgid "Created By"
+msgstr "Created By"
+
+msgid "Date Created"
+msgstr "Date Created"
+
+msgid "Last Submitted"
+msgstr "Last Submitted"
+
+msgid "Submissions"
+msgstr "Submissions"
+
+msgid "IP Address"
+msgstr "IP Address"
+
+msgid "State"
+msgstr "State"
+
+msgid "Please select the form to get submissions of:"
+msgstr "Please select the form to get submissions of:"
+
+msgid "WR ContactForm: Submissions Manager"
+msgstr "WR ContactForm: Submissions Manager"
+
+msgid "Data Presentation"
+msgstr "Data Presentation"
+
+# list user email
+msgid "Select Group"
+msgstr "Select Group"
+
+msgid "User Groups"
+msgstr "User Groups"
+
+msgid "No email field found"
+msgstr "No email field found"
+
+msgid "You must add some email-type field in your form in order to select it here"
+msgstr "You must add some email-type field in your form in order to select it here"
+
+msgid "You must add some form field in your form in order to select it here"
+msgstr "You must add some form field in your form in order to select it here"
+
+msgid "No form field found"
+msgstr "No form field found"
+
+# config messages
+msgid "WR_CONTACTFORM_MESSAGES_NUM"
+msgstr "#"
+
+msgid "WR_CONTACTFORM_MESSAGES_SCREEN"
+msgstr "Screen"
+
+msgid "WR_CONTACTFORM_MESSAGES_RETRIEVE_ALL_MESSAGES_FROM_LANGUAGE_FILE_AND_SET_SHOW_STATUS_FOR_THEM"
+msgstr "Retrieve all messages from language file and set 'Show' status for them"
+
+msgid "WR_CONTACTFORM_MESSAGES_REFRESH_ALL_MESSAGE"
+msgstr "Refresh all message"
+
+msgid "WR_CONTACTFORM_MESSAGES_SHOW"
+msgstr "Show"
+
+msgid "WR_CONTACTFORM_MESSAGES_ORDER"
+msgstr "Order"
+
+msgid "WR_CONTACTFORM_MESSAGES_TEXT"
+msgstr "Text"
+
+# menu
+msgid "WR_CONTACTFORM_MENU_SUBMISSIONS_TEXT"
+msgstr "Submissions"
+
+msgid "WR_CONTACTFORM_MENU_SUBMISSION_TEXT"
+msgstr "Submission"
+
+msgid "WR_CONTACTFORM_MENU_FORMS_TEXT"
+msgstr "Forms"
+
+msgid "WR_CONTACTFORM_MENU_CONFIGURATION_TEXT"
+msgstr "Configuration"
+
+msgid "WR_CONTACTFORM_MENU_ABOUT_TEXT"
+msgstr "About"
+
+msgid "WR_CONTACTFORM_MENU_FORM_TEXT"
+msgstr "Form"
+
+# config language
+msgid "WR_CONTACTFORM_LANG_SELECT_LANGUAGE_TO_BE_INSTALLED"
+msgstr "Select language(s) to be installed"
+
+msgid "WR_CONTACTFORM_LANG_MAINTENANCE"
+msgstr "Language Manager"
+
+msgid "WR_CONTACTFORM_LANG_INSTALL_LANGUAGES"
+msgstr "Install languages"
+
+msgid "WR_CONTACTFORM_LANG_SITE"
+msgstr "Site"
+
+msgid "WR_CONTACTFORM_LANG_ADMINISTRATOR"
+msgstr "Administrator"
+
+msgid "WR_CONTACTFORM_LANG_LANGUAGE_MAINTENANCE"
+msgstr "Language Maintenance"
+
+msgid "WR_CONTACTFORM_LANG_THE_LANGUAGE_HAS_BEEN_SUCCESSFULLY_INSTALLED"
+msgstr "The language(s) has been successfully installed"
+
+msgid "WR_CONTACTFORM_LANG_YOU_MUST_SELECT_AT_LEAST_ONE_LANGUAGE_TO_INSTALL"
+msgstr "You must select at least one language to install"
+
+msgid "WR_CONTACTFORMLANG_CAN_NOT_BE_INSTALLED"
+msgstr "can not be installed"
+
+msgid "WR_CONTACTFORM_LANG_NOT_SUPPORTED_YET"
+msgstr "not supported yet"
+
+msgid "WR_CONTACTFORM_LANG_INSTALLED"
+msgstr "installed"
+
+msgid "WR_CONTACTFORM_LANG_TRANSLATE"
+msgstr "Translate"
+
+msgid "WR_CONTACTFORM_LANG_THIS_LANGUAGE_NOT_INSTALLATION"
+msgstr "This language not installation"
+
+# config data
+msgid "WR_CONTACTFORM_DATA_MAINTENANCE"
+msgstr "Data Manager"
+
+msgid "WR_CONTACTFORM_SAMPLE_DATA_INSTALLATION"
+msgstr "Sample Data Installation"
+
+msgid "WR_CONTACTFORM_DATA_BACKUP"
+msgstr "Data Backup / Restore"
+
+msgid "WR_CONTACTFORM_BTN_BACKUP"
+msgstr "Backup Data"
+
+msgid "WR_CONTACTFORM_SAMPLE_DATA_ERROR_VERSION"
+msgstr "The product version you are using is outdated. <a href='edit.php?post_type=wr_cf_post_type&page=wr-contactform-upgrade' class='jsn-link-action'>Update now</a>"
+
+# Menu footer
+msgid "WR_GENERAL_DOCUMENTATION"
+msgstr "Document"
+
+msgid "WR_GENERAL_SUPPORT"
+msgstr "Support Forum"
+
+msgid "WR_GENERAL_VOTE"
+msgstr "Vote on JED"
+
+msgid "WR_GENERAL_KEEP_IN_TOUCH"
+msgstr "Follow us"
+
+msgid "Upgrade to pro"
+msgstr "Upgrade to pro"
+
+msgid "Updates are available."
+msgstr "Updates are available."
+
+msgid "Update Now"
+msgstr "Update Now"
+
+# task view select form
+msgid "WR_CONTACTFORM_MODULE_LIST_FORM"
+msgstr "Form: "
+
+msgid "WR_CONTACTFORM_MODULE_LIST_FORM_DES"
+msgstr "WR ContactForm - Select Form"
+
+msgid "Select Form"
+msgstr "Select Form"
+
+msgid "WR_CONTACTFORM_MODULE_DES"
+msgstr "WR ContactForm - Select Form"
+
+msgid "WR_CONTACTFORM_BUTTON_SAVE"
+msgstr "Save"
+
+msgid "WR_CONTACTFORM_BUTTON_RESET"
+msgstr "Reset"
+
+msgid "WR_CONTACTFORM_DO_NOT_HAVE_ANY_FORM"
+msgstr "You don't have any form yet."
+
+msgid "WR_CONTACTFORM_EDIT_SELECTED_FORM"
+msgstr "Edit selected form"
+
+msgid "WR_CONTACTFORM_CREATE_NEW_FORM"
+msgstr "Create new form"
+
+msgid "WR_CONTACTFORM_SEE_ALL_FORMS"
+msgstr "See all forms"
+
+msgid "WR_CONTACTFORM_YOU_MUST_SELECT_SOME_FORM"
+msgstr "You must select some form to edit"
+
+msgid "Form is not defined"
+msgstr "Form is not defined"
+
+msgid "You must select some form. You can create one by clicking icon Plus on the right."
+msgstr "You must select some form. You can create one by clicking icon 'Plus' on the right."
+
+# configuration data
+msgid "WR_CONTACTFORM_SAMPLE_DATA_INSTALL_SUGGESTION"
+msgstr "<ul><li>Installing sample data will delete all current WR ContactForm data including all Form,Submission,Configuration source profiles, etc.</li><li>It is NOT recommended to install sample data on production website.</li></ul>"
+
+msgid "WR_CONTACTFORM_SAMPLE_DATA_PLEASE_CHECK_I_AGREE_INSTALL_SAMPLE_DATA"
+msgstr "I agree that installing sample data will delete all current WR ContactForm data"
+
+msgid "WR_DATA_BACKUP_BUTTON"
+msgstr "Backup"
+
+msgid "WR_DATA_RESTORE_BUTTON"
+msgstr "Restore"
+
+msgid "WR_DATA_RESTORE_FILE"
+msgstr "Restore file"
+
+msgid "WR_CONTACTFORM_DATABASE"
+msgstr "Database"
+
+msgid "WR_CONTACTFORM_FOLDER_BACKUP"
+msgstr "Backup folder attach file"
+
+msgid "WR_WARNING"
+msgstr "WARNING!"
+
+msgid "WR_DATA_SAMPLE_BUTTON"
+msgstr "Install sample data"
+
+msgid "WR_DATA_RESTORE"
+msgstr "Data restore"
+
+msgid "WR_DATA_SAMPLE_START_INSTALL"
+msgstr "There are several stages involved in the process. Please be patient."
+
+msgid "WR_DATA_SAMPLE_START_INSTALL_DOWNLOADING"
+msgstr "Download sample data package."
+
+msgid "WR_DATA_SAMPLE_START_INSTALL_INSTALLING"
+msgstr "Install sample data"
+
+msgid "WR_DATA_SAMPLE_INSTALL_SUCCESS"
+msgstr "Sample data is successfully installed"
+
+msgid "WR_DATA_SAMPLE_INSTALL_SUCCESS_MESSAGE"
+msgstr "Congratulations, now you can operate on sample Form"
+
+msgid "Upgrade to PRO UNLIMITED"
+msgstr "Upgrade to PRO UNLIMITED"
+
+msgid "Backup data successfully"
+msgstr "Backup data successfully"
+
+# About
+msgid "WR_GENERAL_UPGRADE"
+msgstr "Upgrade"
+
+# Update
+msgid "WR_CONTACTFORM_UPDATE_PRODUCT"
+msgstr "WR ContactForm: Update"
+
+msgid "WR_UPDATE_PAGE_HEAD"
+msgstr "Update WR ContactForm"
+
+# Upgrade
+msgid "WR_EXTFW_UPGRADE_BENEFITS_FREE"
+msgstr "Benefits of upgrading to PRO STANDARD edition - 39 USD"
+
+msgid "WR_EXTFW_UPGRADE_BENEFITS_PRO"
+msgstr "Benefits of upgrading to PRO UNLIMITED edition - 69 USD"
+
+msgid "WR_CONTACTFORM_UPGRADE_PRODUCT"
+msgstr "WR ContactForm: Upgrade"
+
+msgid "WR_CONTACTFORM_BTN_SELECTED"
+msgstr "Select"
+
+msgid "WR_CONTACTFORM_UPGRADE_UNLIMITED_NUMBER_OF_FORM_AND_FIELDS_IN_A_FORM"
+msgstr "<strong>Unlimited number</strong> of forms and fields in a form."
+
+msgid "WR_CONTACTFORM_UPGRADE_UNLIMITED_NUMBER_OF_SUBMISSION_IN_A_FORM"
+msgstr "<strong>Unlimited number</strong> of submissions."
+
+msgid "WR_CONTACTFORM_UPGRADE_ABILITY_TO_PRESENT_FORM_FIELDS_IN_MULTIPLE_PAGES"
+msgstr "Ability to present form fields in <strong>multiple pages</strong>."
+
+msgid "WR_CONTACTFORM_UPGRADE_REMOVED_BRANDLINK_FROM_FORM_PRESENTATION"
+msgstr "Clean form presentation without <strong>any brand-link</strong>"
+
+msgid "WR_CONTACTFORM_UPGRADE_PROFESSIONAL_SUPPORT_FOR_01_DOMAIN"
+msgstr "Professional support for <strong>01 domain</strong>."
+
+msgid "WR_CONTACTFORM_UPGRADE_FREE_PRODUCT_UPDATE_FOR_06_MONTHS"
+msgstr "Free product update for <strong>06 months</strong>."
+
+msgid "WR_CONTACTFORM_UPGRADE_ALL_BENEFITS_OF_PRO_STADARD_EDITION"
+msgstr "<strong>All benefits of PRO STANDARD edition</strong>."
+
+msgid "WR_CONTACTFORM_UPGRADE_FASTER_DEDICATED_SUPPORT_FOR_UNLIMITED_DOMAINS"
+msgstr "Faster dedicated support for <strong>unlimited domains</strong>."
+
+msgid "WR_CONTACTFORM_UPGRADE_FREE_PRODUCT_UPDATE_FOR_01_YEAR"
+msgstr "Free product update <strong>for 01 year</strong>."
+
+# HELP
+msgid "WR_CONTACTFORM_HELP"
+msgstr "Help"
+
+msgid "WR_CONTACTFORM_HELP_HELP_AND_SUPPORT"
+msgstr "Help & Support"
+
+msgid "WR_CONTACTFORM_HELP_DOCUMENTATION"
+msgstr "DOCUMENTATION"
+
+msgid "WR_CONTACTFORM_HELP_DOWNLOAD_PDF_DOCUMENTATION"
+msgstr "Download PDF documentation"
+
+msgid "WR_CONTACTFORM_HELP_DES_DOCUMENTATION"
+msgstr "<p>WR ContactForm is equipped with compressive documentation in PDF format. You will find out about how main concepts as well as clear instruction how to configure each product feature.</p><p>The PDF file is well prepared and ready to be printed for convenient reading.</p>"
+
+msgid "WR_CONTACTFORM_HELP_SUPPORT_FORUM"
+msgstr "SUPPORT FORUM (for PRO STANDARD)"
+
+msgid "WR_CONTACTFORM_HELP_CHECK_SUPPORT_FORUM"
+msgstr "Check Support Forum"
+
+msgid "WR_CONTACTFORM_HELP_DES_CHECK_SUPPORT_FORUM"
+msgstr "<p>Visit woorockets support forum to read topics from thousands of member. The question you want to ask might already raised by someone and answered.</p><p>If not, feel free to create a post. In support forum we do provide support for everyone who bought commercial edition of our products.</p>"
+
+msgid "WR_CONTACTFORM_HELP_HELPDESK_SYSTEM"
+msgstr "HELPDESK SYSTEM (for PRO UNLIMITED)"
+
+msgid "WR_CONTACTFORM_HELP_SUBMIT_TICKET_IN_HELPDESK_SYSTEM"
+msgstr "Submit ticket in Dedicated Support System"
+
+msgid "WR_CONTACTFORM_HELP_DES_HELPDESK_SYSTEM"
+msgstr "<p>Dedicated Helpdesk System is for developers who bought PRO UNLIMITED edition of the product. With ticket support we can investigate issue in depth and provide solution related not only with products but Joomla! in general.</p><p>Another benefit of helpdesk system is guaranteed 16-hours response time.</p>"
+
+msgid "WR_CONTACTFORM_HELP_BUY_PRO_STANDARD_EDITION"
+msgstr "Buy PRO STANDARD edition"
+
+msgid "Buy PRO UNLIMITED edition"
+msgstr "Buy PRO UNLIMITED edition"
+
+msgid "Upgrade to PRO UNLIMITED edition"
+msgstr "Upgrade to PRO UNLIMITED edition"
+
+msgid "Watch Quick Start Video"
+msgstr "Watch Quick Start Video"
+
+# placeholder controls
+msgid "Street Address"
+msgstr "Street Address"
+
+msgid "Address Line 2"
+msgstr "Address Line 2"
+
+msgid "City"
+msgstr "City"
+
+msgid "Postal/Zip code"
+msgstr "Postal/Zip code"
+
+msgid "State/Province/Region"
+msgstr "State/Province/Region"
+
+msgid "First"
+msgstr "First"
+
+msgid "Last"
+msgstr "Middle"
+
+msgid "Last"
+msgstr "Last"
+
+msgid "Country"
+msgstr "Country"
+
+msgid "Titles"
+msgstr "Titles"
+
+# date time
+msgid "WR_CONTACTFORM_DATE_HOUR_TEXT"
+msgstr "Hour"
+
+msgid "WR_CONTACTFORM_DATE_MINUTE_TEXT"
+msgstr "Minute"
+
+msgid "WR_CONTACTFORM_DATE_CLOSE_TEXT"
+msgstr "Close"
+
+msgid "Prev"
+msgstr "Prev"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "Today"
+msgstr "Today"
+
+msgid "January"
+msgstr "January"
+
+msgid "February"
+msgstr "February"
+
+msgid "March"
+msgstr "March"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "May"
+
+msgid "June"
+msgstr "June"
+
+msgid "July"
+msgstr "July"
+
+msgid "August"
+msgstr "August"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "October"
+
+msgid "November"
+msgstr "November"
+
+msgid "December"
+msgstr "December"
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "Mar"
+msgstr "Mar"
+
+msgid "Apr"
+msgstr "Apr"
+
+msgid "May"
+msgstr "May"
+
+msgid "Jun"
+msgstr "Jun"
+
+msgid "Jul"
+msgstr "Jul"
+
+msgid "Aug"
+msgstr "Aug"
+
+msgid "Sep"
+msgstr "Sep"
+
+msgid "Oct"
+msgstr "Oct"
+
+msgid "Nov"
+msgstr "Nov"
+
+msgid "Dec"
+msgstr "Dec"
+
+msgid "Sunday"
+msgstr "Sunday"
+
+msgid "Monday"
+msgstr "Monday"
+
+msgid "Tuesday"
+msgstr "Tuesday"
+
+msgid "Wednesday"
+msgstr "Wednesday"
+
+msgid "Thursday"
+msgstr "Thursday"
+
+msgid "Friday"
+msgstr "Friday"
+
+msgid "Saturday"
+msgstr "Saturday"
+
+msgid "Sun"
+msgstr "Sun"
+
+msgid "Mon"
+msgstr "Mon"
+
+msgid "Tue"
+msgstr "Tue"
+
+msgid "Wed"
+msgstr "Wed"
+
+msgid "Thu"
+msgstr "Thu"
+
+msgid "Fri"
+msgstr "Fri"
+
+msgid "Sat"
+msgstr "Sat"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "We"
+msgstr "We"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Wk"
+msgstr "Wk"
+
+# Container
+msgid "WR_CONTACTFORM_MOVE_UP_CONTAINER"
+msgstr "Move Up"
+
+msgid "WR_CONTACTFORM_MOVE_DOWN_CONTAINER"
+msgstr "Move Down"
+
+msgid "Add Column"
+msgstr "Add Column"
+
+msgid "Delete Container"
+msgstr "Delete Container"
+
+msgid "Delete Column"
+msgstr "Delete Column"
+
+msgid "Are you sure you want to delete the whole row including all elements it contains?"
+msgstr "Are you sure you want to delete the whole row including all elements it contains?"
+
+msgid "Are you sure you want to delete the whole column including all elements it contains?"
+msgstr "Are you sure you want to delete the whole column including all elements it contains?"
+
+msgid "WR_CONTACTFORM_BUTTONS"
+msgstr "Buttons"
+
+msgid "Button Position"
+msgstr "Button Position"
+
+msgid "Add Container"
+msgstr "Add Container"
+
+# Custom Css
+msgid "WR_CONTACTFORM_CUSTOM_CSS"
+msgstr "CSS"
+
+msgid "Save Submissions"
+msgstr "Save Submissions"
+
+msgid "Select Yes if you want to save submissions to database for later utilization."
+msgstr "Select 'Yes' if you want to save submissions to database for later utilization."
+
+msgid "WR_CONTACTFORM_SHOW_FORM_TITLE"
+msgstr "Show Form Title"
+
+msgid "WR_CONTACTFORM_SHOW_FORM_TITLE_DES"
+msgstr "Show Form Title"
+
+msgid "WR_CONTACTFORM_SHOW_FORM_DESCRIPTION"
+msgstr "Show Form Description"
+
+msgid "WR_CONTACTFORM_SHOW_FORM_DESCRIPTION_DES"
+msgstr "Show Form Description"
+
+msgid "WR_CONTACTFORM_SHOW_SUBMISSION_DATA_DETAIL"
+msgstr "Show Submission Data Detail"
+
+msgid "WR_CONTACTFORM_SHOW_SUBMISSION_DATA_DETAIL_DES"
+msgstr "Show Submission Data Detail"
+
+msgid "Thank you for installing WR Contact Form from WooRockets Team! We are making new hi-quality themes and plugins for you ;) Follow us on <a href=\"%s\" target=\"_blank\" >Twitter</a> or <a href=\"%s\" target=\"_blank\" >Subscribe</a> to our email list and be the first to get updated."
+msgstr "Thank you for installing WR Contact Form from WooRockets Team! We are making new hi-quality themes and plugins for you ;) Follow us on <a href=\"%s\" target=\"_blank\" >Twitter</a> or <a href=\"%s\" target=\"_blank\" >Subscribe</a> to our email list and be the first to get updated."
+
+msgid "About WR Contact Form"
+msgstr "About WR Contact Form"
+
+msgid "You would never find any other easier WordPress Contact Form builder than <strong>WR ContactForm</strong>. This free user-oriented form creator with drag-and-drop interface makes the job easier than ever. You will no longer have to worry about writing code or learning any new skill"
+msgstr "You would never find any other easier WordPress Contact Form builder than <strong>WR ContactForm</strong>. This free user-oriented form creator with drag-and-drop interface makes the job easier than ever. You will no longer have to worry about writing code or learning any new skill"
+
+msgid "Current version"
+msgstr "Current version"
+
+msgid "Change log"
+msgstr "Change log"
+
+msgid "Follow us to get latest updates"
+msgstr "Follow us to get latest updates"
+
+msgid "Follow"
+msgstr "Follow"
+
+msgid "Join our mailing list"
+msgstr "Join our mailing list"
+
+msgid "Receive the latest updates about WR Contact Form as well as all the best news from WooRockets"
+msgstr "Receive the latest updates about WR Contact Form as well as all the best news from WooRockets"
+
+msgid "Documentation"
+msgstr "Documentation"
+
+msgid "Detailed construction of how to use WR Contact Form"
+msgstr "Detailed construction of how to use WR Contact Form"
+
+msgid "Hot Features"
+msgstr "Hot Features"
+
+msgid "Drag and drop"
+msgstr "Drag and drop"
+
+msgid "You can save a lot of time with intuitive drag and drop operations. This can be used in many processes when working with WR Contact Form."
+msgstr "You can save a lot of time with intuitive drag and drop operations. This can be used in many processes when working with WR Contact Form."
+
+msgid "Prevent Spam"
+msgstr "Prevent Spam"
+
+msgid "To protect your website from spam, the Captcha function should be used. The system will require users to fill in the CAPTCHA to protect forms from spam and abuse."
+msgstr "To protect your website from spam, the Captcha function should be used. The system will require users to fill in the CAPTCHA to protect forms from spam and abuse."
+
+msgid "Multiple forms"
+msgstr "Multiple forms"
+
+msgid "You can create as many forms as you want. In a single form you can also choose the most suitable fields for your form."
+msgstr "You can create as many forms as you want. In a single form you can also choose the most suitable fields for your form."
+
+msgid "GET INVOLVED"
+msgstr "GET INVOLVED"
+
+msgid "Rate WR Contact Form"
+msgstr "Rate WR Contact Form"
+
+msgid "Share your thoughts of WR Contact Form with other WordPress folks. Next versions of WR Contact Form will be improved basing on your opinions."
+msgstr "Share your thoughts of WR Contact Form with other WordPress folks. Next versions of WR Contact Form will be improved basing on your opinions."
+
+msgid "Submit your Website"
+msgstr "Submit your Website"
+
+msgid "Share your website using WR Contact Form with us. We can include it in our showcase collection and have it exposed to thousands of WooRockets's website visitors."
+msgstr "Share your website using WR Contact Form with us. We can include it in our showcase collection and have it exposed to thousands of WooRockets's website visitors."
+
+msgid "Review"
+msgstr "Review"
+
+msgid "Learn more from <strong>OUR BLOG</strong>"
+msgstr "Learn more from <strong>OUR BLOG</strong>"
+
+msgid "Follow our blog for latest news, tutorials & interviews about WooComerce & WordPress"
+msgstr "Follow our blog for latest news, tutorials & interviews about WooComerce & WordPress"
+
+msgid "SEE OUR OTHER AWESOMENESS"
+msgstr "SEE OUR OTHER AWESOMENESS"
+
+msgid "Freebies download"
+msgstr "Freebies download"
+
+msgid "Corsa theme"
+msgstr "Corsa theme"
